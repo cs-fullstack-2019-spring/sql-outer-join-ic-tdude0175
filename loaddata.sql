@@ -15,7 +15,7 @@ VALUES
 ('Mr. Sensing'),
 ('Ms. Hampton'),
 ('Ms. Hendricks'),
-('Ms. Bruce', NULL),
+('Ms. Bruce'),
 ('Mr. Bruce');
 
 INSERT INTO students (student_name, teacher_id)
