@@ -29,7 +29,6 @@ VALUES
 ('Myiah',4),
 ('Jung',4),
 ('Blaine',1)
-('Biff',NULL;
-('Buffy',NULL,
+('Biff',NULL),
+('Buffy',NULL),
 ('Mikey',NULL);
-
